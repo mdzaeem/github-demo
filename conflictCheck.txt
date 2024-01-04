@@ -1,1 +1,1 @@
-resolving conflict
+Conflict line in main
