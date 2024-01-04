@@ -1,1 +1,1 @@
-resolving conflict
+Another conflicting update in branch3
